@@ -1,18 +1,18 @@
 # Astromatch
 
-### O que funciona
+### What Works
 
-- Renderiza os cards com a imagem de background e os dados do perfil.
-- Um Gif aparece enquanto a página estiver carregando.
-- Se não houver mais perfis para exibir ou o usuário quiser começar de novo ele pode clicar no botão.
-- Quando clica nos botões presentes no header, muda de página.
-- Quando o usuário da like em algum perfil ele é sorteado se irá ou não dar match. Se der match, aparece uma mensagem e o perfil será exibido na lista de matches.
-- Ao clicar na pessoa que deu match aparece uma página para mandar uma mensagem.
+- Renders cards with background image and profile data.
+- A Gif appears while the page is loading.
+- If there are no more profiles to display or the user wants to start over he can click on the button.
+- When you click on the buttons in the header, you change the page.
+- When the user likes a profile, it is drawn whether or not it will match. If it matches, a message will appear and the profile will be displayed in the list of matches.
+- When clicking on the matched person, a page appears to send a message.
 
-### Link Surge 
+### Link to Access
 https://taboo-coach.surge.sh/
 
-### Imagens
+### Images
 ![1](https://user-images.githubusercontent.com/102267210/185024834-d59128ab-2768-4335-8841-4f097ae263fe.PNG)
 ![2](https://user-images.githubusercontent.com/102267210/184558993-48941916-843a-4008-932e-33c50e13c479.PNG)
 ![3](https://user-images.githubusercontent.com/102267210/184558995-c4ebc4c3-fa5b-480d-8af3-665430b72c2f.PNG)
