@@ -1,6 +1,9 @@
 # Astromatch
 
-### What Works
+## 🔗 Link to Access
+https://taboo-coach.surge.sh/
+
+## 💻 Functionalities
 
 - Renders cards with background image and profile data.
 - A Gif appears while the page is loading.
@@ -9,10 +12,30 @@
 - When the user likes a profile, it is drawn whether or not it will match. If it matches, a message will appear and the profile will be displayed in the list of matches.
 - When clicking on the matched person, a page appears to send a message.
 
-### Link to Access
-https://taboo-coach.surge.sh/
+## ⚙️ Setup
 
-### Images
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+- Installation:
+
+```
+  $ npm install
+  $ npm install styled-components
+```
+
+- To start the project:
+
+```
+  $ npm start
+```
+
+Now just test it in your browser!
+
+## 🛠 Technologies
+
+- React.js
+
+## 📷 Images
 ![1](https://user-images.githubusercontent.com/102267210/185024834-d59128ab-2768-4335-8841-4f097ae263fe.PNG)
 ![2](https://user-images.githubusercontent.com/102267210/184558993-48941916-843a-4008-932e-33c50e13c479.PNG)
 ![3](https://user-images.githubusercontent.com/102267210/184558995-c4ebc4c3-fa5b-480d-8af3-665430b72c2f.PNG)
